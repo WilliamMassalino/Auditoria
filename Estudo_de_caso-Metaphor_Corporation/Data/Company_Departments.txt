@@ -1,0 +1,10 @@
+Administrative	000000
+Product Development	100000
+Manufacturing	200000
+Technical Support	300000  
+Sales	400000
+Marketing	500000
+Development	600000
+Quality Assurance	700000
+Consulting	800000
+Human Resources	900000
